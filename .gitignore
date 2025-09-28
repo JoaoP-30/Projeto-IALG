@@ -1,0 +1,7 @@
+# Arquivos de compilação
+*.o
+*.out
+*.exe
+
+# Arquivos binários
+*.bin
